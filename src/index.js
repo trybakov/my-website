@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Blogs from './components/Blogs'
+import Blogs from './pages/Blogs'
+import Login from './pages/Login'
+
 
 import {
   createBrowserRouter,
@@ -19,6 +21,10 @@ import {
     {
       path: "blogs",
       element: <Blogs/>,
+    },
+    {
+      path: "login",
+      element: <Login/>,
     },
 
   ]);

@@ -1,6 +1,6 @@
 import '../styles/Blogs.css'
 
-import Navbar from './Navbar'
+import Navbar from '../components/Navbar'
 
 function Blogs() {
     return (

@@ -1,6 +1,6 @@
 import '../styles/Home.css'
 import MainImage from '../img/port1.jpg'
-import Icons from './Icons'
+import Icons from '../components/Icons'
 
 
 function Home(){

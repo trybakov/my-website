@@ -14,6 +14,11 @@ function Navbar() {
                                 <i className="far fa-newspaper"></i>
                         </div>      
                 </Link>
+                <Link to='/login'>
+                        <div className="control" data-id="blogs">
+                                <i className="far fa-newspaper"></i>
+                        </div>      
+                </Link>
         </div>
         );
 }
