@@ -1,0 +1,33 @@
+/*Independed components*/
+/* new contact icon css */
+.contact-iconn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.4rem;
+    /* position: absolute;
+    left: 1000px;
+    bottom: 50px */
+    
+  }
+  
+  .linkedin-icon,
+  .github-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    background-color: var(--color-grey-5);
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 0.4rem;
+    transition: all 0.4s ease-in-out;
+  }
+  
+  .linkedin-icon:hover,
+  .github-icon:hover {
+    background-color: var(--color-secondary);
+  }
+  /* end new contact icon css */
