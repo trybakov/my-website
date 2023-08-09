@@ -16,7 +16,7 @@
     "Requires Numbers",
     "Requires Symbols"
   ],
-  "mfaConfiguration": "ON",
+  "mfaConfiguration": "OPTIONAL",
   "autoVerifiedAttributes": [
     "email"
   ],

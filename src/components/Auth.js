@@ -16,4 +16,5 @@ function Auth({ signOut, user }) {
   );
 }
 
+
 export default withAuthenticator(Auth);
