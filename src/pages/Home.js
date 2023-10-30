@@ -24,7 +24,7 @@ function Home(){
                 </p>
                 <p>I created this website using ReactJS as a fun way to practice with web
                     development on my spare time. I used AWS Amplify to host and to serve a simple yet
-                    efficent CI/CD pipeline. Feel free to check out my blogs that and connect 
+                    efficent CI/CD pipeline. Feel free to check out my blogs and connect 
                     with my on LinkedIn.
                 </p>
                 <div><Icons/></div>
