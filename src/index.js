@@ -21,11 +21,7 @@ import {
       path: "blogs",
       element: <Blogs/>,
     },
-    {
-      path: "login",
-      element: <Login/>,
-    },
-
+    
   ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
