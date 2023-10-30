@@ -5,12 +5,12 @@ function Navbar() {
     return (
         <div className="controls">
                 <Link to='/'>
-                        <div className="control" data-id="blogs">
-                                <i className="far fa-newspaper"></i>
+                        <div className="control">
+                                <i className="fas fa-home"></i>
                         </div>      
                 </Link>
                 <Link to='/blogs'>
-                        <div className="control" data-id="blogs">
+                        <div className="control">
                                 <i className="far fa-newspaper"></i>
                         </div>      
                 </Link>

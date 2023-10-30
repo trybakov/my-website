@@ -18,14 +18,14 @@ function Home(){
                     A Cybersecurity Practitioner.
                 </h1>
                 <p>
-                    I possess a deep passion for cybersecurity and firmly uphold the belief 
-                    that safeguarding digital privacy and security plays a pivotal role in 
-                    fostering a strong relationship between individuals and organizations.
+                    I possess a deep passion for cybersecurity and believe 
+                    that safeguarding digital privacy and security plays a critical role in 
+                    maintaining a strong relationship between individuals and organizations.
                 </p>
-                <p>I developed this website using ReactJS as a fun way to practice with web
-                    development on my spare time. I used AWS Amplify to host this application to serve a simple yet
-                    efficent CI/CD pipeline. This website is my testing ground with everything web development related,
-                    therefore the content is not necessarily functional.
+                <p>I created this website using ReactJS as a fun way to practice with web
+                    development on my spare time. I used AWS Amplify to host and to serve a simple yet
+                    efficent CI/CD pipeline. Feel free to check out my blogs that and connect 
+                    with my on LinkedIn.
                 </p>
                 <div><Icons/></div>
             </div>
