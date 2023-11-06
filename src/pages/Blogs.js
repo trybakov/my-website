@@ -1,5 +1,6 @@
 import '../styles/Blogs.css'
 import ADImage from '../img/ad.jpg'
+import CICDImage from '../img/CI-CD.png'
 import Navbar from '../components/Navbar'
 
 function Blogs() {
@@ -17,6 +18,19 @@ function Blogs() {
                             <div className="blog">
                                 <a href="https://medium.com/@trandom/active-directory-home-lab-3a47bb630991">
                                     <img src={ADImage} alt=""/>
+                                    <div className="blog-text">
+                                        <h4>
+                                            Creating an Active Directory home lab
+                                        </h4>
+                                        <p>
+                                        A simple demo on how to setup an AD lab environment to practice infrastructure attacks 
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="blog">
+                                <a href="https://medium.com/@trandom/create-a-website-with-a-simple-ci-cd-pipeline-using-amplify-and-github-1dd5328178da">
+                                    <img src={CICDImage} alt=""/>
                                     <div className="blog-text">
                                         <h4>
                                             Creating an Active Directory home lab
