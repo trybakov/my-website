@@ -20,7 +20,7 @@ function Blogs() {
                                     <img src={ADImage} alt=""/>
                                     <div className="blog-text">
                                         <h4>
-                                            Create a website with a simple CI/CD pipeline using Amplify and GitHub
+                                            Creating an Active Directory home lab
                                         </h4>
                                         <p>
                                         A simple demo on how to setup an AD lab environment to practice infrastructure attacks 
@@ -33,10 +33,10 @@ function Blogs() {
                                     <img src={CICDImage} alt=""/>
                                     <div className="blog-text">
                                         <h4>
-                                            Creating an Active Directory home lab
+                                            Create a website with a simple CI/CD pipeline using Amplify and GitHub
                                         </h4>
                                         <p>
-                                        A simple demo on how to setup an AD lab environment to practice infrastructure attacks 
+                                        A demo on how to create a simple CI/CD pipeline using GitHub and AWS Amplify for your website or application 
                                         </p>
                                     </div>
                                 </a>
