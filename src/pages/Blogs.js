@@ -20,7 +20,7 @@ function Blogs() {
                                     <img src={ADImage} alt=""/>
                                     <div className="blog-text">
                                         <h4>
-                                            Creating an Active Directory home lab
+                                            Create a website with a simple CI/CD pipeline using Amplify and GitHub
                                         </h4>
                                         <p>
                                         A simple demo on how to setup an AD lab environment to practice infrastructure attacks 
